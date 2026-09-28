@@ -24,6 +24,12 @@ O aprendizado foi dividido em dois pilares principais:
 
 As pastas estão divididas por linguagens. Abaixo está o sumário de conteúdos:
 
+### Orientações sobre os exercícios práticos
+* **`Orientacao/..`**: Arquivos PDF com as orientações passadas pela universidade.
+
+### Estilos
+* **`CSS/Estilos/..`**: Arquivos CSS com os estilos respectivos a cada arquivo HTML.
+
 ### Práticas em Python
 * **`python/carro alugado.py/`**: Exercícios iniciais proposto para calcular o valor de um aluguel de carro.
 * **`python/comandos de entrada e saida/`**: Série de fórmulas e funções iniciais do Python.
@@ -31,8 +37,12 @@ As pastas estão divididas por linguagens. Abaixo está o sumário de conteúdos
 ### Práticas Web (HTML, CSS & JavaScript)
 * **`html/tabelas.html/`**: Arquivo HTML com foco no uso de tabelas.
 * **`html/tabelas_imagens.html/`**: Arquivo HTML com foco no uso de tabelas, inserção de imagens e uso de hyperlinks.
-* **`html/formulario/`**: Arquivo HTML com foco no uso de tags iniciais do HTML5, com foco em 'radio', 'input', 'checkbox' e 'textarea'.
+* **`html/formulario.html/`**: Arquivo HTML com foco no uso de tags iniciais do HTML5, com foco em 'radio', 'input', 'checkbox' e 'textarea'.
 * **`html/mini-site/`**: Arquivo HTML com foco no uso de tags de texto e listas/sublistas.
+* **`css/marcadores.css/`**: Arquivo CSS utilizando formatação de texto e listas.
+* **`css/paginainicial.css/`**: Arquivo CSS com o primeiro uso do mesmo de facto.
+* **`css/pseudoclasses.css/`**: Arquivo CSS abordando uso de imagens com hyperlinks e propriedade _hover_.
+* **`css/quadrados.css/`**: Arquivo CSS sobre dispor elementos em áreas diferentes da janela.
 
 ---
 
