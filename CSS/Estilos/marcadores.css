@@ -1,0 +1,18 @@
+.lista1{
+    list-style: square;
+    font-size: 35px;
+    color: crimson;
+    width: fit-content;
+}
+
+.lista1 li:nth-child(even){
+    background-color: gold;
+}
+
+.lista1 li:nth-child(odd){
+    background-color: lightgray;
+}
+
+.lista1 li:hover{
+    font-weight: bolder;
+}
