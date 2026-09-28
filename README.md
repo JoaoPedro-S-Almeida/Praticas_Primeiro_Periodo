@@ -52,7 +52,7 @@ As pastas estão divididas por linguagens. Abaixo está o sumário de conteúdos
 1. Certifique-se de ter o [Python](https://www.python.org/) instalado na sua máquina.
 2. Navegue até a pasta do script desejado:
    ```bash
-   cd python/logica
+   cd python/nome_da_pasta
    ```
 3. Execute o arquivo:
    ```bash
@@ -62,9 +62,9 @@ As pastas estão divididas por linguagens. Abaixo está o sumário de conteúdos
 ### Visualizando os projetos Web
 1. Navegue até a pasta do projeto web:
    ```bash
-   cd web/interatividade-js
+   cd html/nome_da_pasta
    ```
-2. Abra o arquivo `index.html` diretamente em qualquer navegador de sua preferência, ou utilize a extensão **Live Server** no [VS Code](https://code.visualstudio.com/).
+2. Abra o arquivo `nome_do_arquivo.html` diretamente em qualquer navegador de sua preferência, ou utilize a extensão **Live Server** no [VS Code](https://code.visualstudio.com/).
 
 ---
 
