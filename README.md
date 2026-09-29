@@ -33,6 +33,9 @@ As pastas estão divididas por linguagens. Abaixo está o sumário de conteúdos
 ### Práticas em Python
 * **`python/carro alugado.py/`**: Exercícios iniciais proposto para calcular o valor de um aluguel de carro.
 * **`python/comandos de entrada e saida/`**: Série de fórmulas e funções iniciais do Python.
+* **`python/funcoes/`**: Uso de funções e procedimentos em diversas situações.
+* **`python/fatorial/`**: Prática de criação de programa para calcular e verificar função _int_ para fatoração.
+* **`python/cadastro_jogos/`**: Prática de criação de programa para cadastro e visualização de _input_ no Python.
 
 ### Práticas Web (HTML, CSS & JavaScript)
 * **`html/tabelas.html/`**: Arquivo HTML com foco no uso de tabelas.
